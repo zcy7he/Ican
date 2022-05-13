@@ -100,3 +100,25 @@ main > .tagline {
 	  text-shadow: -5px 0 #f44336, 5px -4px #2196f3;
 	}
   }
+
+
+  footer {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	text-transform: uppercase;
+	padding: 10px;
+	font-family: "Lato", sans-serif;
+	font-size: 0.7em;
+  }
+  footer p {
+	letter-spacing: 3px;
+	color: #EF2F3C;
+  }
+  footer a {
+	color: #F6F4F3;
+	text-decoration: none;
+  }
+  footer a:hover {
+	color: #276FBF;
+  }
